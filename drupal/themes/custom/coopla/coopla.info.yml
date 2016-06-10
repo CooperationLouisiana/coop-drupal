@@ -1,0 +1,10 @@
+name: CoopLa
+type: theme
+description: Theme for Coop Louisiana.
+package: Other
+core: 8.x
+libraries:
+  - coopla/global-styling
+
+base theme: bootstrap
+
