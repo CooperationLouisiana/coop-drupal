@@ -1,5 +1,0 @@
-# define our libraries
-global-css:
-  css:
-    theme:
-      css/style.css: {}
